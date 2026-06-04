@@ -44,6 +44,8 @@ cover-letter-generator/
 │   ├── App.jsx        # Main component
 │   ├── App.css        # All styles
 │   └── main.jsx       # Entry point
+├── Screenshots
+├── Prompts.md
 ├── .env               # API key (not committed)
 ├── .gitignore
 ├── package.json
