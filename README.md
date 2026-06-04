@@ -38,6 +38,7 @@ bashnpm run dev
 
 📁 Project Structure
 cover-letter-generator/
+
 ├── public/
 ├── src/
 │   ├── App.jsx        # Main component
