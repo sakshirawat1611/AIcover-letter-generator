@@ -23,7 +23,7 @@ TechnologyPurposeReact + ViteFrontend framework & build toolGroq API (LLaMA 3.1)
 
 🚀 Getting Started
 1. Clone the repository
-bashgit clone https://github.com/your-username/cover-letter-generator.git
+bashgit clone[ https://github.com/your-username/cover-letter-generator.git](https://github.com/sakshirawat1611/AIcover-letter-generator/blob/main/README.md)
 cd cover-letter-generator
 2. Install dependencies
 bashnpm install
